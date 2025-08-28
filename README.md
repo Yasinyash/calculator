@@ -1,19 +1,19 @@
 🧮BASIC CALCULATOR
 A simple,responsive calculator built using HTML,CSS and JAVASCRIPT. It supports basic arithmetic operations such as addition,subtractionj,multiplication, and divison
-_________________________________________________________________________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________________
 🚀Features:
 .Addition,subtraction,multiplication,and Divison 
 .Clear and user-friendly interface
 .Reponsive design(works on mobile and desktop)
 .input validation(handles errors like divison by zero)
-________________________________________________________________________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________________
  🛠️Technologies used
  .HTML- Markup structure of the page
  .CSS- styling and layout
  .JAVASCRIPT-logic for the calculator
- _______________________________________________________________________________________________________________________________________________________________________________________________________________________
- 📂project structure
- basic-calculator
- |index.html
- |style.css
- |script.js
+ ______________________________________________________________________________________________________________________________________________________________________
+📂 project structure
+basic-calculator/
+├── index.html       # Main HTML file
+├── style.css        # Calculator styles
+└── script.js        # Calculator logic
